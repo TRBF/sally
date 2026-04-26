@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "sally",
+    "slug": "sally",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo-sally.jpeg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "image": "./assets/logo-sally.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo-sally.jpeg",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/logo-sally.jpeg"
+    }
+  }
+}
